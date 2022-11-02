@@ -1,5 +1,5 @@
 # Segmentation_mall_data
-A creative project to perfomr data segmentation
+A creative project to perform data segmentation
 
 ## The aim:
 The aim of this project is making a segmentation anylasis on the mall clients data set. (Data stored in the
